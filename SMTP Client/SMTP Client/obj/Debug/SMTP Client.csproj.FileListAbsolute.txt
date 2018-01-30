@@ -1,0 +1,10 @@
+C:\Users\Matt\source\repos\SMTP Client\SMTP Client\bin\Debug\SMTP Client.exe.config
+C:\Users\Matt\source\repos\SMTP Client\SMTP Client\bin\Debug\SMTP Client.exe
+C:\Users\Matt\source\repos\SMTP Client\SMTP Client\bin\Debug\SMTP Client.pdb
+C:\Users\Matt\source\repos\SMTP Client\SMTP Client\obj\Debug\SMTP Client.csprojResolveAssemblyReference.cache
+C:\Users\Matt\source\repos\SMTP Client\SMTP Client\obj\Debug\SMTP_Client.Form1.resources
+C:\Users\Matt\source\repos\SMTP Client\SMTP Client\obj\Debug\SMTP_Client.Properties.Resources.resources
+C:\Users\Matt\source\repos\SMTP Client\SMTP Client\obj\Debug\SMTP Client.csproj.GenerateResource.Cache
+C:\Users\Matt\source\repos\SMTP Client\SMTP Client\obj\Debug\SMTP Client.csproj.CoreCompileInputs.cache
+C:\Users\Matt\source\repos\SMTP Client\SMTP Client\obj\Debug\SMTP Client.exe
+C:\Users\Matt\source\repos\SMTP Client\SMTP Client\obj\Debug\SMTP Client.pdb
