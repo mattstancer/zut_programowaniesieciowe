@@ -26,57 +26,7 @@ namespace Pop3_Client
             this.host = host;
             
         }
-        public string clientRun() {
-            this.cli = new TcpClient();
-            this.cli.Connect(this.host, this.port);
-            byte[] bytesToSend = System.Text.Encoding.ASCII.GetBytes("STAT");
-            System.Net.Security.SslStream sslstream = new SslStream(this.cli.GetStream());
-            sslstream.AuthenticateAsClient(this.host);
-             sw = new StreamWriter(sslstream);
-             reader = new StreamReader(sslstream);
-            sw.WriteLine("STAT");
-            sw.Flush();
-            string str= reader.ReadLine();
-            return str;
-            this.cli.GetStream().Close();
-            this.cli.Close();
-        }
-        public string stopClient() {
-         
-            this.cli = new TcpClient();
-            this.cli.Connect(this.host, this.port);
-            System.Net.Security.SslStream sslstream = new SslStream(this.cli.GetStream());
-            sslstream.AuthenticateAsClient(this.host);
-            sw = new StreamWriter(sslstream);
-            reader = new StreamReader(sslstream);
-            sw.WriteLine("QUIT");
-            sw.Flush();
-            string str = reader.ReadLine();
-            this.cli.GetStream().Close();
-            this.cli.Close();
-            
-            return str;
-        }
-        static string GetMd5Hash(MD5 md5Hash, string input)
-        {
-
-            // Convert the input string to a byte array and compute the hash.
-            byte[] data = md5Hash.ComputeHash(Encoding.UTF8.GetBytes(input));
-
-            // Create a new Stringbuilder to collect the bytes
-            // and create a string.
-            StringBuilder sBuilder = new StringBuilder();
-
-            // Loop through each byte of the hashed data 
-            // and format each one as a hexadecimal string.
-            for (int i = 0; i < data.Length; i++)
-            {
-                sBuilder.Append(data[i].ToString("x2"));
-            }
-
-            // Return the hexadecimal string.
-            return sBuilder.ToString();
-        }
+      
         public string login(string email, string password) {
             //password = GetMd5Hash(MD5.Create(), password);
             this.cli = new TcpClient();
