@@ -1,0 +1,10 @@
+C:\Users\Matt\source\repos\Pop3 Client\Pop3 Client\bin\Debug\Pop3 Client.exe.config
+C:\Users\Matt\source\repos\Pop3 Client\Pop3 Client\bin\Debug\Pop3 Client.exe
+C:\Users\Matt\source\repos\Pop3 Client\Pop3 Client\bin\Debug\Pop3 Client.pdb
+C:\Users\Matt\source\repos\Pop3 Client\Pop3 Client\obj\Debug\Pop3 Client.csprojResolveAssemblyReference.cache
+C:\Users\Matt\source\repos\Pop3 Client\Pop3 Client\obj\Debug\Pop3_Client.Form1.resources
+C:\Users\Matt\source\repos\Pop3 Client\Pop3 Client\obj\Debug\Pop3_Client.Properties.Resources.resources
+C:\Users\Matt\source\repos\Pop3 Client\Pop3 Client\obj\Debug\Pop3 Client.csproj.GenerateResource.Cache
+C:\Users\Matt\source\repos\Pop3 Client\Pop3 Client\obj\Debug\Pop3 Client.csproj.CoreCompileInputs.cache
+C:\Users\Matt\source\repos\Pop3 Client\Pop3 Client\obj\Debug\Pop3 Client.exe
+C:\Users\Matt\source\repos\Pop3 Client\Pop3 Client\obj\Debug\Pop3 Client.pdb
