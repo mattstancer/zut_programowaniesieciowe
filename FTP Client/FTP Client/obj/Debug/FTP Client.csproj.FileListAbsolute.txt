@@ -1,7 +1,0 @@
-c:\users\matt\source\repos\FTP Client\FTP Client\bin\Debug\FTP Client.exe.config
-c:\users\matt\source\repos\FTP Client\FTP Client\bin\Debug\FTP Client.exe
-c:\users\matt\source\repos\FTP Client\FTP Client\bin\Debug\FTP Client.pdb
-c:\users\matt\source\repos\FTP Client\FTP Client\obj\Debug\FTP Client.csprojResolveAssemblyReference.cache
-c:\users\matt\source\repos\FTP Client\FTP Client\obj\Debug\FTP Client.csproj.CoreCompileInputs.cache
-c:\users\matt\source\repos\FTP Client\FTP Client\obj\Debug\FTP Client.exe
-c:\users\matt\source\repos\FTP Client\FTP Client\obj\Debug\FTP Client.pdb
